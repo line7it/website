@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "website"
+  "defaultProject": "website",
+  "cli": {
+    "defaultCollection": "@nativescript/schematics"
+  }
 }
